@@ -1,0 +1,20 @@
+1	Initial commit - RaceDay project structure
+2	Add participant model
+3	Add organiser model
+4	Add event model
+5	Add event category model
+6	Add enrolment and results models
+7	Configure RaceDay database context
+8	Configure SQL Server database connection
+9	Create initial database migration
+10	Implement participant API endpoints
+11	Implement organiser API endpoints
+12	Implement event management functionality
+13	Implement event category functionality
+14	Implement participant enrolment functionality
+15	Implement results management functionality
+16	Add participant registration and login pages
+17	Create organiser login and dashboard
+18	Improve MVC website layout and navigation
+19	Add GitHub Actions build and test workflow
+20	Update README with project setup instructions
